@@ -8,10 +8,10 @@
 		<version>2.3.3.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>personal</groupId>
+	<groupId>com.example</groupId>
 	<artifactId>ppmtool</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>PPMToolFullStack</name>
+	<name>ppmtool</name>
 	<description>Personal Project Management Tool</description>
 
 	<properties>
