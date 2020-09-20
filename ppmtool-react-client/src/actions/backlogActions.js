@@ -1,5 +1,4 @@
 import axios from "axios";
-import { bindActionCreators } from "redux";
 import {
   GET_ERRORS,
   GET_BACKLOG,
